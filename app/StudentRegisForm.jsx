@@ -20,7 +20,6 @@ function StudentRegisForm() {
             
         <Card
             title="Student Registration Form"
-            bordered={false}
             className="w-full max-w-2xl shadow-lg rounded-lg"
         >
             <Form
